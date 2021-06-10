@@ -1,0 +1,35 @@
+.sno-col{
+  width: 2%;
+}
+
+.source-col{
+  width: 8%;
+}
+
+.destination-col{
+  width: 8%;
+}
+
+.source-port-col{
+  width: 5%;
+}
+
+.destination-port-col{
+  width: 5%;
+}
+
+.seq-col{
+  width: 5%;
+}
+
+.ack-col{
+  width: 5%;
+}
+.protocol-col{
+  width: 5%;
+}
+
+.adjust-hz{
+  resize: horizontal;
+  overflow: auto;
+}
